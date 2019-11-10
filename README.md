@@ -1,5 +1,7 @@
-# Piddle.NUnitExamples
-Examples of the evolution of the styles of unit test I've written over time
+# Piddle.Azure.Functions.Testing
+Examples of HttpTrigger-ed Azure Function Unit Tests:
+1) Direct method call
+2) WebApplicationFactory and a "proxy" Web API Controller
 
 # License
 
@@ -9,5 +11,5 @@ Note: Any packages will have their own licenses, please check those separately.
 
 # What you need
 
-- Visual Studio 2017 Community Edition (or later).
+- Visual Studio 2019 Community Edition (or later).
 - NUnit 3 Test Adapter extension.
